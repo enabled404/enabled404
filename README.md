@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com/?color=3d4757&font=Righteous&center=true&duration=3200&size=32&vCenter=true&width=500&height=70&lines=Hey!👋;I'm+Saad Khalid.">
 </h1>
 
-<p align="center">
+<p align="justify">
   <strong>A Certified Cybersecurity Specialist</strong> with a <strong>BS in Cyber Security</strong>, specializing in penetration testing, network security architecture, risk assessment, and management. Expertise in DFIR, SOC2 auditing, SIEM, and GRC. Proven ability to identify vulnerabilities, implement security measures, and ensure compliance with industry standards. Committed to advancing organizational security through innovative solutions in cloud security, AI security, and other emerging trends. Dedicated to continuous improvement and enhancing security postures in dynamic and complex environments.
 </p>
 
