@@ -1,9 +1,11 @@
 # 💫 About Me:
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=3d4757&font=Righteous&center=true&duration=3200&size=32&vCenter=true&width=500&height=70&lines=Hey!👋;I'm+Saad Khalid."
-  
-** A 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐞𝐝 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 𝐰𝐢𝐭𝐡 𝐚 𝐁𝐒 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐳𝐢𝐧𝐠 𝐢𝐧 𝐩𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐭𝐞𝐬𝐭𝐢𝐧𝐠, 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞, 𝐫𝐢𝐬𝐤 𝐚𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭. 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐃𝐅𝐈𝐑, 𝐒𝐎𝐂2 𝐚𝐮𝐝𝐢𝐭𝐢𝐧𝐠, 𝐒𝐈𝐄𝐌, 𝐚𝐧𝐝 𝐆𝐑𝐂. 𝐏𝐫𝐨𝐯𝐞𝐧 𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐭𝐨 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬, 𝐢𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐦𝐞𝐚𝐬𝐮𝐫𝐞𝐬, 𝐚𝐧𝐝 𝐞𝐧𝐬𝐮𝐫𝐞 𝐜𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐢𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐬𝐭𝐚𝐧𝐝𝐚𝐫𝐝𝐬. 𝐂𝐨𝐦𝐦𝐢𝐭𝐭𝐞𝐝 𝐭𝐨 𝐚𝐝𝐯𝐚𝐧𝐜𝐢𝐧𝐠 𝐨𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐜𝐥𝐨𝐮𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐀𝐈 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲, 𝐚𝐧𝐝 𝐨𝐭𝐡𝐞𝐫 𝐞𝐦𝐞𝐫𝐠𝐢𝐧𝐠 𝐭𝐫𝐞𝐧𝐝𝐬. 𝐃𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐭𝐨 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐦𝐩𝐫𝐨𝐯𝐞𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐞𝐧𝐡𝐚𝐧𝐜𝐢𝐧𝐠 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐩𝐨𝐬𝐭𝐮𝐫𝐞𝐬 𝐢𝐧 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐚𝐧𝐝 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐞𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭𝐬.<br>
+  <img src="https://readme-typing-svg.demolab.com/?color=3d4757&font=Righteous&center=true&duration=3200&size=32&vCenter=true&width=500&height=70&lines=Hey!👋;I'm+Saad Khalid.">
+</h1>
 
+<p align="center">
+  <strong>A Certified Cybersecurity Specialist</strong> with a <strong>BS in Cyber Security</strong>, specializing in penetration testing, network security architecture, risk assessment, and management. Expertise in DFIR, SOC2 auditing, SIEM, and GRC. Proven ability to identify vulnerabilities, implement security measures, and ensure compliance with industry standards. Committed to advancing organizational security through innovative solutions in cloud security, AI security, and other emerging trends. Dedicated to continuous improvement and enhancing security postures in dynamic and complex environments.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadkhalidsolves) 
