@@ -23,6 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=enabled404&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=500&color=4B8EDA&center=true&width=600&lines=Thanks+for+stopping+by!;Executing+%22Goodbye+Sequence%22...;Shutting+down+terminal...;Connection+terminated." alt="Terminal Ending">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=2500&pause=500&color=FF0000&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+stopping+by!;Executing+%22Goodbye+Sequence%22...;Shutting+down+terminal...;Connection+terminated." alt="Terminal Ending">
+</h1>
