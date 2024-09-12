@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?color=3d4757&font=Righteous&center=true&duration=3200&size=32&vCenter=true&width=500&height=70&lines=Hey!👋;I'm+Saad Khalid.">
+  <img src="https://readme-typing-svg.demolab.com/?color=0000FF&font=Righteous&center=true&duration=3200&size=32&vCenter=true&width=500&height=70&lines=Hey!👋;I'm+Saad Khalid.">
 </h1>
 
 <p align="justify">
