@@ -4,7 +4,7 @@
 </h1>
 
 <p align="justify">
-  <strong>A Security Researcher </strong> with a <strong>BS in Cyber Security</strong>, specializing in penetration testing, network security architecture, vulnerability assessment and risk management. Expertise in DFIR, SOC2 auditing and GRC. Proven ability to identify vulnerabilities, implement security measures and ensure compliance with industry standards. Committed to advancing organizational security through innovative solutions in cloud security and AI security. Dedicated to continuous improvement and enhancing security postures in dynamic and complex environments.
+  <strong>A Security Researcher </strong> with a <strong>BS in Cybersecurity</strong>, specializing in penetration testing, network security architecture, vulnerability assessment and risk management. Expertise in DFIR, SOC2 auditing and GRC. Proven ability to identify vulnerabilities, implement security measures and ensure compliance with industry standards. Committed to advancing organizational security through innovative solutions in cloud security and AI security. Dedicated to continuous improvement and enhancing security postures in dynamic and complex environments.
 </p>
 
 ## 🌐 Socials:
