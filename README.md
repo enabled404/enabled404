@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saadkhalidsolves)
 [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=threads&logoColor=white)](https://www.threads.net/@saadkhalidhere)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://saadkhalidhere.medium.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://saad.llm.locker/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=react&logoColor=white)](https://saadkhalidhere.llm.locker/)
 
 
 # 💻 Tech Stack:
